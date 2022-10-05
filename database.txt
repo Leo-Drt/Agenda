@@ -1,0 +1,3 @@
+Ciclano;     98746321;     ciclano@contato.com;     Rua 5
+Fulano;   45671234;   fulano@contato.com;   Rua 7
+Beltrano; 12346987; beltrano@contato.com; Rua 2

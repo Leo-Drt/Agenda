@@ -1,0 +1,2 @@
+Maria; 9999-1010; maria@contato; Rua 1
+Beltrano; 9999-1111; beltrano@contato; Rua 2
